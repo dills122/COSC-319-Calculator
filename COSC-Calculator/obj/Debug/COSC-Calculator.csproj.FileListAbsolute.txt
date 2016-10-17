@@ -1,0 +1,33 @@
+c:\users\dylan\documents\visual studio 2015\Projects\COSC-Calculator\COSC-Calculator\bin\Debug\COSC-Calculator.exe.config
+c:\users\dylan\documents\visual studio 2015\Projects\COSC-Calculator\COSC-Calculator\bin\Debug\COSC-Calculator.exe
+c:\users\dylan\documents\visual studio 2015\Projects\COSC-Calculator\COSC-Calculator\bin\Debug\COSC-Calculator.pdb
+c:\users\dylan\documents\visual studio 2015\Projects\COSC-Calculator\COSC-Calculator\obj\Debug\COSC-Calculator.csprojResolveAssemblyReference.cache
+c:\users\dylan\documents\visual studio 2015\Projects\COSC-Calculator\COSC-Calculator\obj\Debug\COSC_Calculator.Form1.resources
+c:\users\dylan\documents\visual studio 2015\Projects\COSC-Calculator\COSC-Calculator\obj\Debug\COSC_Calculator.Properties.Resources.resources
+c:\users\dylan\documents\visual studio 2015\Projects\COSC-Calculator\COSC-Calculator\obj\Debug\COSC-Calculator.csproj.GenerateResource.Cache
+c:\users\dylan\documents\visual studio 2015\Projects\COSC-Calculator\COSC-Calculator\obj\Debug\COSC-Calculator.exe
+c:\users\dylan\documents\visual studio 2015\Projects\COSC-Calculator\COSC-Calculator\obj\Debug\COSC-Calculator.pdb
+C:\Users\Dylan\documents\visual studio 2015\Projects\COSC-Calculator\COSC-Calculator\bin\Debug\mxparser.dll
+C:\Users\Dylan\documents\visual studio 2015\Projects\COSC-Calculator\COSC-Calculator\bin\Debug\mxparser.pdb
+C:\Users\dills122\Documents\COSC-Calculator\COSC-Calculator\bin\Debug\COSC-Calculator.exe.config
+C:\Users\dills122\Documents\COSC-Calculator\COSC-Calculator\obj\Debug\COSC-Calculator.exe
+C:\Users\dills122\Documents\COSC-Calculator\COSC-Calculator\obj\Debug\COSC-Calculator.pdb
+C:\Users\dills122\Documents\COSC-Calculator\COSC-Calculator\bin\Debug\COSC-Calculator.exe
+C:\Users\dills122\Documents\COSC-Calculator\COSC-Calculator\bin\Debug\COSC-Calculator.pdb
+C:\Users\dills122\Documents\COSC-Calculator\COSC-Calculator\bin\Debug\mxparser.pdb
+C:\Users\dills122\Documents\COSC-Calculator\COSC-Calculator\obj\Debug\COSC-Calculator.csprojResolveAssemblyReference.cache
+C:\Users\dills122\Documents\COSC-Calculator\COSC-Calculator\obj\Debug\COSC_Calculator.Form1.resources
+C:\Users\dills122\Documents\COSC-Calculator\COSC-Calculator\obj\Debug\COSC_Calculator.Properties.Resources.resources
+C:\Users\dills122\Documents\COSC-Calculator\COSC-Calculator\obj\Debug\COSC-Calculator.csproj.GenerateResource.Cache
+C:\Users\dills122\Documents\COSC-Calculator\COSC-Calculator\obj\Debug\COSC_Calculator.History.resources
+F:\COSC 319\COSC-Calculator\COSC-Calculator\bin\Debug\COSC-Calculator.exe.config
+F:\COSC 319\COSC-Calculator\COSC-Calculator\obj\Debug\COSC-Calculator.exe
+F:\COSC 319\COSC-Calculator\COSC-Calculator\obj\Debug\COSC-Calculator.pdb
+F:\COSC 319\COSC-Calculator\COSC-Calculator\bin\Debug\COSC-Calculator.exe
+F:\COSC 319\COSC-Calculator\COSC-Calculator\bin\Debug\COSC-Calculator.pdb
+F:\COSC 319\COSC-Calculator\COSC-Calculator\bin\Debug\mxparser.pdb
+F:\COSC 319\COSC-Calculator\COSC-Calculator\obj\Debug\COSC-Calculator.csprojResolveAssemblyReference.cache
+F:\COSC 319\COSC-Calculator\COSC-Calculator\obj\Debug\COSC_Calculator.Form1.resources
+F:\COSC 319\COSC-Calculator\COSC-Calculator\obj\Debug\COSC_Calculator.History.resources
+F:\COSC 319\COSC-Calculator\COSC-Calculator\obj\Debug\COSC_Calculator.Properties.Resources.resources
+F:\COSC 319\COSC-Calculator\COSC-Calculator\obj\Debug\COSC-Calculator.csproj.GenerateResource.Cache

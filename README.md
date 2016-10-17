@@ -1,4 +1,6 @@
 # COSC-319-Calculator
+mXparser library website.
+http://mathparser.org/
 
 Calculator using the mxParser library to handle complex equations, order of operations, etc.
 
